@@ -1,6 +1,6 @@
 Console.WriteLine ("Vitor Ragazzi 👨‍💻");
 
-💼 Trabalho atualmente como Estagiário de sistemas no Gabinete Militar do Governador de Minas Gerais
+💼 Trabalho atualmente como Estagiário de desenvolvimento na DigitalPrime
 
 💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev
 
