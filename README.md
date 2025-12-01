@@ -10,12 +10,12 @@ Console.WriteLine ("Vitor Ragazzi 👨‍💻");
 
 <div style="display: flex; flex-wrap: wrap; gap: 6px;">
 
-<img alt="PHP" src="https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=PHP&logoColor=purple"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-CC2927?style=for-the-badge&logo=microsoftsql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/PYTHON-E34F26?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-CC2927?style=for-the-badge&logo=microsoftsql&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/Aws%20-CC2927?style=for-the-badge&logo=aws&logoColor=white"/>
 
 </div>
 
