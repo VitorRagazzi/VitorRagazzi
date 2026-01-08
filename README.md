@@ -1,7 +1,6 @@
-Console.WriteLine ("Vitor Ragazzi 👨‍💻");
+System.out.println("Vitor Ragazzi 👨‍💻");
 
-💼 Trabalho atualmente como Estagiário de desenvolvimento na DigitalPrime
-
+💼 Trabalho atualmente como DEV Fullstack da Confianza HUB
 💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev
 
 ---
