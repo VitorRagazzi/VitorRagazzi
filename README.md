@@ -14,7 +14,6 @@ System.out.println("Vitor Ragazzi 👨‍💻");
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-CC2927?style=for-the-badge&logo=microsoftsql&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/Aws%20-CC2927?style=for-the-badge&logo=aws&logoColor=white"/>
 
 </div>
 
